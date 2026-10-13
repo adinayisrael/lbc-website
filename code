@@ -1,0 +1,47 @@
+<body style="background-color: paleturquoise;">
+
+    <header>
+        <h1 style="color: royalblue;">Discovering Long Beach</h1>
+        <p><em>A look at my hometown and what makes it so special to me!</em></p>
+    </header>
+
+    <main>
+
+        <section>
+            <h2 style="font-family: Arial;">Why I Love My Hometown</h2>
+
+            <ol>
+                <li>The weather! There is nothing better than the bright California sun.</li>
+
+                <li>
+                    The <strong>diversity.</strong>
+                    As a South American, I absolutely love meeting people from different walks of life.
+                </li>
+
+                <li>
+                    There's always something to do! I enjoy going to the pier or checking out new restaurants around the city.
+                </li>
+            </ol>
+        </section>
+
+        <section>
+            <h2>A View of Long Beach</h2>
+
+            <figure>
+                <img src="thepike.jpg"
+                     alt="A photo I took at the Pike in Long Beach"
+                     width="200">
+
+                <figcaption>
+                    Here is a photo I took at the Pike in Long Beach.
+                </figcaption>
+            </figure>
+        </section>
+
+    </main>
+
+    <footer>
+        <p>Made by Adina</p>
+    </footer>
+
+</body>
